@@ -1,3 +1,3 @@
 This is content for the staging branch
 This is content for the dev branch
-Hi i am Main Brnch
+Hi i am Main Branch
